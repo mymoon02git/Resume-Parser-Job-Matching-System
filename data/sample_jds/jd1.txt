@@ -1,0 +1,9 @@
+We are looking for a Machine Learning Intern to build and deploy predictive models.
+
+Requirements:
+- Strong Python and SQL skills.
+- Hands-on experience with machine learning, scikit-learn, pandas and numpy.
+- Familiarity with NLP and deep learning frameworks such as TensorFlow or PyTorch.
+- Knowledge of Git and Docker.
+- Exposure to AWS is a plus.
+- Good communication and problem solving skills.

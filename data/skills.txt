@@ -1,0 +1,44 @@
+python
+java
+c++
+sql
+mysql
+snowflake
+machine learning
+deep learning
+reinforcement learning
+nlp
+natural language processing
+scikit-learn
+tensorflow
+pytorch
+keras
+pandas
+numpy
+matplotlib
+seaborn
+streamlit
+flask
+django
+fastapi
+html
+css
+javascript
+react
+git
+github
+docker
+aws
+power bi
+tableau
+data analysis
+data visualization
+feature engineering
+random forest
+svm
+logistic regression
+linear regression
+k-means
+pca
+xgboost
+opencv
